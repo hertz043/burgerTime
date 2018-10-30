@@ -5,3 +5,10 @@ body {
     max-width: 500px;
     margin: auto;
 }
+
+img.animated-gif {
+    border-radius: 50%;
+    width: 120px;
+    height: auto;
+    float: right;
+}
